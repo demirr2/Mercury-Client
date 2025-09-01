@@ -6,6 +6,6 @@ This project is created for **educational purposes only**.
 ---
 
 ## ✨ Features
-- 🌈 **Rainbow ESP** – Highlight players with a dynamic rainbow effect  
+- 🌈 **Rainbow ESP** – Highlight players and chests with a dynamic rainbow effect  
 - ⚡ **AutoClicker** – Automates clicks for faster combat  
 - 📏 **Reach** – Extend your attack range  
